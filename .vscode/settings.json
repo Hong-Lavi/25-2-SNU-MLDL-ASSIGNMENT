@@ -1,0 +1,16 @@
+{
+    "background.editor": {
+        "useFront": true,
+        "style": {
+            "background-position": "center",
+            "background-size": "cover",
+            "opacity": 0.25
+        },
+        "styles": [],
+        "images": [
+            "file:///Users/lavi/Downloads/obanai.jpeg"
+        ],
+        "interval": 0,
+        "random": false
+    }
+}
